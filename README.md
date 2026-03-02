@@ -17,7 +17,7 @@ Teachers need a system where they can perform administrative functions for their
 
 ### Steps
 
-- `git clone https://github.com/4wangyu/school.git`
+- `git clone ...`
 - `cd school`
 - `npm install`
 - Update `host, port, username, password, database` fields in the `ormconfig.json` to use your own database instance.
